@@ -175,3 +175,28 @@ Passionate about transforming raw data into meaningful insights through analytic
 ---
 
 ## ⭐ If you found this project helpful, consider giving it a Star.
+
+
+# 🚀 How to Run This Project
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/narnesatwika/End-to-End-Sales-Data-Analysis.git
+```
+
+2. Install the required libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+4. Open
+
+Sales_Data_Analysis_Project.ipynb
