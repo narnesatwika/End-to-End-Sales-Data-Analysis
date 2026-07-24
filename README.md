@@ -1,4 +1,11 @@
-# 📊 End-to-End Sales Data Analysis & Sales Prediction
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?logo=plotly)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikitlearn)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)# 📊 End-to-End Sales Data Analysis & Sales Prediction
 
 An end-to-end **Data Analytics** project that analyzes historical sales data to uncover business insights, identify sales trends, and predict future sales using Machine Learning. The project demonstrates the complete analytics workflow, from data preprocessing and exploratory analysis to predictive modeling and interactive business intelligence reporting with Power BI.
 
