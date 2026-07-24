@@ -164,24 +164,6 @@ End-to-End-Sales-Data-Analysis/
 
 ---
 
-# 👩‍💻 Author
-
-**Satwika Narne**
-
-Aspiring **Data Analyst | Business Analyst**
-
-Passionate about transforming raw data into meaningful insights through analytics, visualization, and predictive modeling.
-
----
-
-## ⭐ If you found this project helpful, consider giving it a Star.
-
-
-
-
-
-
-
 
 # 🚀 How to Run This Project
 
@@ -206,3 +188,18 @@ jupyter notebook
 4. Open
 
 Sales_Data_Analysis_Project.ipynb
+
+
+
+# 👩‍💻 Author
+
+**Satwika Narne**
+
+Aspiring **Data Analyst | Business Analyst**
+
+Passionate about transforming raw data into meaningful insights through analytics, visualization, and predictive modeling.
+
+---
+
+## ⭐ If you found this project helpful, consider giving it a Star.
+
