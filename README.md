@@ -5,7 +5,9 @@
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?logo=plotly)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikitlearn)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)# 📊 End-to-End Sales Data Analysis & Sales Prediction
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)
+
+# 📊 End-to-End Sales Data Analysis & Sales Prediction
 
 An end-to-end **Data Analytics** project that analyzes historical sales data to uncover business insights, identify sales trends, and predict future sales using Machine Learning. The project demonstrates the complete analytics workflow, from data preprocessing and exploratory analysis to predictive modeling and interactive business intelligence reporting with Power BI.
 
