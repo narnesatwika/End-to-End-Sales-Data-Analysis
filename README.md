@@ -193,13 +193,16 @@ Sales_Data_Analysis_Project.ipynb
 
 # 👩‍💻 Author
 
-**Satwika Narne**
+**Narne Satwika**
 
-Aspiring **Data Analyst | Business Analyst**
+Aspiring Data Analyst | Business Analyst
 
-Passionate about transforming raw data into meaningful insights through analytics, visualization, and predictive modeling.
-
----
+- Python
+- SQL
+- Power BI
+- Excel
+- Machine Learning
+- Data Visualization
 
 ## ⭐ If you found this project helpful, consider giving it a Star.
 
