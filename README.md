@@ -202,16 +202,25 @@ Sales_Data_Analysis_Project.ipynb
 
 # 👩‍💻 Author
 
-**Narne Satwika**
+## Narne Satwika
 
-Aspiring Data Analyst | Business Analyst
+Aspiring Data Analyst passionate about transforming data into actionable business insights through analytics, visualization, and machine learning.
 
-- Python
-- SQL
-- Power BI
-- Excel
-- Machine Learning
-- Data Visualization
+### 🌐 Portfolio
+
+https://portfolio-henna-ten-25.vercel.app/
+
+### 💼 LinkedIn
+
+https://www.linkedin.com/in/narne-satwika
+
+### 💻 GitHub
+
+https://github.com/narnesatwika
+
+### 📧 Email
+
+narnesatwika1234@gmail.com
 
 ## ⭐ If you found this project helpful, consider giving it a Star.
 
